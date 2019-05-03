@@ -17,7 +17,6 @@ Gem::Specification.new do |s|
 
   s.platform = Gem::Platform::RUBY
   s.add_runtime_dependency 'jekyll', '> 3.5', '< 5.0'
-  s.add_runtime_dependency 'jekyll-multiple-languages-plugin'
   s.add_runtime_dependency 'jekyll-theme-leap-day'
   s.add_development_dependency 'html-proofer', '~> 3.0'
   s.add_development_dependency 'rubocop', '~> 0.50'

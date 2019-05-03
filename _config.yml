@@ -7,5 +7,3 @@ github:
   owner_name: aaroncadillac
 exclude_from_localizations: ["javascript", "images", "css"]
 theme: jekyll-theme-leap-day
-plugins:
-  - jekyll-multiple-languages-plugin
