@@ -1,7 +1,7 @@
 # My personal website
 
 [![Build Status](https://travis-ci.org/aaroncadillac/aaroncadillac.github.io.svg?branch=travis)](https://travis-ci.org/aaroncadillac/aaroncadillac.github.io)
-![GitHub release](https://img.shields.io/github/release/aaroncadillac/aaroncadillac.github.io.svg?style=plastic)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/aaroncadillac/aaroncadillac.github.io.svg)
 
 This project use Markdown & Jekyll, use [pages-themes/leap-day
 ](https://github.com/pages-themes/leap-day).
