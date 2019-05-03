@@ -5,3 +5,13 @@ rvm: 2.5
 
 install: script/bootstrap
 script: script/cibuild
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: GITHUB_TOKEN 
+  keep_history: true
+  on:
+    branch: gh-pages
+  local_dir: ./_site
+  target_branch: master
