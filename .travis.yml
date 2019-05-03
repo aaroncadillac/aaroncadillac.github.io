@@ -9,7 +9,7 @@ script: script/cibuild
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: GITHUB_TOKEN 
+  github_token: $GITHUB_TOKEN 
   keep_history: true
   on:
     branch: travis
