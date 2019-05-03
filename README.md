@@ -25,7 +25,7 @@ Favorite quote?
 [![telegram](https://img.shields.io/badge/telegram-%40aaroncadillac-%230088cc.svg)](https://t.me/aaroncadillac)
 [![github](https://img.shields.io/badge/github-aaroncadillac-black.svg)](https://github.com/aaroncadillac)
 [![linkedin](https://img.shields.io/badge/linkedin-aaronhmaya-%230077b5.svg)](https://linkedin.com/in/aaronhmaya)
-[![mail](https://img.shields.io/badge/gmail-aaron.hmaya-%23d44638.svg)](mailto://aaron.hmaya@gmail.com)
+[![mail](https://img.shields.io/badge/gmail-aaron.hmaya-%23d44638.svg)](mailto:aaron.hmaya@gmail.com)
 
 ## Current Activity
 
