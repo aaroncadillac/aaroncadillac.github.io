@@ -12,6 +12,6 @@ deploy:
   github_token: GITHUB_TOKEN 
   keep_history: true
   on:
-    branch: gh-pages
+    branch: travis
   local_dir: ./_site
   target_branch: master
