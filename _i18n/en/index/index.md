@@ -49,7 +49,7 @@ I'm Digital Channels Architect on BBVA Next Technologies to BBVA México
   - PolymerJS PWAs creation
   - Use of web workers oriented to realtime request
   
-- **BBVA México** (02/18 - actualidad)
+- **BBVA México** (02/18 - current)
   - Support for development teams
   - Support in frontend solutions design
   - Decision making for non-impact of projects and tactical solutions
@@ -59,9 +59,9 @@ I'm Digital Channels Architect on BBVA Next Technologies to BBVA México
 
 - FrontEnd
   - JS (Vanilla y ES6)
-  - PolymerJS (Todas las versiones)
+  - PolymerJS (All versions)
   - React
-  - LitElements
+  - LitElement
   - Webcomponents
 - BackEnd
   - Node.js (Express, Loopback)
@@ -82,7 +82,7 @@ I'm Digital Channels Architect on BBVA Next Technologies to BBVA México
 ## Languages
 
 - Spanish (Mother tongue 100%)
-- English (Written 70, Conversational 30%)
+- English (Written 70, Conversational 55%) - Currently studing at Quick Learning
 
 ## Education
 
