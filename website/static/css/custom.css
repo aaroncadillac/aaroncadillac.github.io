@@ -28,3 +28,7 @@
 		overflow: auto;
 	}
 }
+
+.headerTitleWithLogo {
+	display: none !important;
+}
