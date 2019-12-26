@@ -83,7 +83,8 @@ class Index extends React.Component {
       <Container
         padding={['bottom', 'top']}
         id={props.id}
-        background={props.background}>
+        background={props.background}
+				align={props.align}>
         <GridBlock
           contents={props.children}
           layout={props.layout}
