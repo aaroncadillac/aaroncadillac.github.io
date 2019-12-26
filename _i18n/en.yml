@@ -1,8 +1,0 @@
-global:
-  title: Home
-  description: My personal website
-  language: Language
-  manteiner: Site maintained by
-  theme_sign: Hosted on GitHub Pages &mdash; Theme by
-  made: Made with ♥ Markdown and Jekyll
-  view_on_github: View on GitHub

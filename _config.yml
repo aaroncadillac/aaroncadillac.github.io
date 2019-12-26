@@ -1,9 +1,0 @@
-title: Aarón Hinojosa
-age: 24
-languages: ["es", "en"]
-lang: es
-baseurl: ""
-github:
-  owner_name: aaroncadillac
-exclude_from_localizations: ["javascript", "images", "css"]
-theme: jekyll-theme-leap-day

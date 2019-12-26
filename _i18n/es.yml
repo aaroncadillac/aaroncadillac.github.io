@@ -1,8 +1,0 @@
-global:
-  title: Inicio
-  description: Mi sitio web personal
-  language: Lenguaje
-  manteiner: Sitio mantenido por
-  theme_sign: Alojado en GitHub Pages &mdash; Tema de
-  made: Hecho con ♥ Markdown y Jekyll
-  view_on_github: Ver en GitHub

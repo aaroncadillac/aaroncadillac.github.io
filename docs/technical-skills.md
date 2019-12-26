@@ -1,0 +1,25 @@
+---
+id: technical-skills
+title: Technical skills
+---
+- FrontEnd
+  - JS (Vanilla y ES6)
+  - PolymerJS (All versions)
+  - React
+  - LitElement
+  - Webcomponents
+- BackEnd
+  - Node.js (Express, Loopback)
+  - J2EE
+- Databases
+  - MongoDB
+  - MySQL/MariaDB
+  - SQLServer
+- CI
+  - Jenkins
+  - GitlabCI
+  - Travis
+- Containers
+  - Docker
+- Version control
+  - Git

@@ -1,4 +1,2 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+website/node_modules
+.vscode
