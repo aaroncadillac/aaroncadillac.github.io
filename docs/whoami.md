@@ -33,7 +33,7 @@ I’m Digital Channels Architect at BBVA Next Technologies to BBVA México
   
 ## Languages
 
-- Spanish (Mother tongue 100%)
+- Spanish (Native Language 100%)
 - English (Written 70%, Conversational 55%)
 
 ## Education
