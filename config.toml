@@ -36,11 +36,24 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 # Custom JS
 customJS = []
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'paraiso-dark'
+    tabWidth = 2
+
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]

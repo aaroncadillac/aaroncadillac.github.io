@@ -8,7 +8,7 @@ author = "aaroncadillac"
 
 If you want to talk with me use one of the following ways
 
-```js
+```js {linenos=table,hl_lines=[4],linenostart=1}
 import { Aarón } from 'Core';
 
 const contact = [
