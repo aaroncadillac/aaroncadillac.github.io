@@ -6,6 +6,8 @@ aliases = ["expertise"]
 author = "aaroncadillac"
 +++
 
+[![CV Download Badge](https://img.shields.io/badge/CV-Download-orange?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1UkveD0QxRhEgcXByH_1P7c5BAH5YAqUH/view?usp=sharing)
+
 ## Current Activity
 
 I'm _DevOps Engineer_ at [Minu](https://minu.mx), some of my activities are:
