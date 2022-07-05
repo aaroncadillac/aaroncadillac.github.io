@@ -6,7 +6,7 @@ aliases = ["expertise"]
 author = "aaroncadillac"
 +++
 
-[![CV Download Badge](https://img.shields.io/badge/CV-Descargar-orange?style=flat-square&logo=googledrive)](https://drive.google.com/file/d/1ZkZkvFYja2OGVAcu3vqghX3GyiKe93_G/view?usp=sharing)
+[![CV Download Badge](/images/badge_es.svg)](https://drive.google.com/file/d/1ZkZkvFYja2OGVAcu3vqghX3GyiKe93_G/view?usp=sharing)
 
 ## Trabajo actual
 
